@@ -1,0 +1,23 @@
+div{
+    width: 60%;
+}
+
+article{
+    font-size: 14px;
+    padding: 0px;
+}
+
+article header{
+    margin: 0px;
+    padding: 0px;
+    color: blue;
+}
+
+h2{
+    padding: 2px;
+    margin: 0px;
+}
+
+p{
+    padding: 0px;
+}
